@@ -2,12 +2,17 @@
 <module type="WEB_MODULE" version="4">
   <component name="Go" enabled="true" />
   <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../Mysql-study" />
     <content url="file://$MODULE_DIR$/../PostgreSQL-study" />
+    <content url="file://$MODULE_DIR$/../algorithm" />
     <content url="file://$MODULE_DIR$/../distribute-study" />
+    <content url="file://$MODULE_DIR$/../docker-study" />
     <content url="file://$MODULE_DIR$/../etcd_study" />
     <content url="file://$MODULE_DIR$" />
     <content url="file://$MODULE_DIR$/../nginx-study" />
     <content url="file://$MODULE_DIR$/../o_system" />
+    <content url="file://$MODULE_DIR$/../redis-study" />
+    <content url="file://$MODULE_DIR$/../study" />
     <content url="file://$MODULE_DIR$/../tcp" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
